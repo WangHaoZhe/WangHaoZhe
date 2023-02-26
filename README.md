@@ -1,4 +1,2 @@
-<p align="center">
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=WangHaoZhe&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=WangHaoZhe&hide_border=true" />
-</p>
+| <a href="https://github.com/WangHaoZhe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WangHaoZhe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Albert Wang's github stats" /></a> | <a href="https://github.com/WangHaoZhe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangHaoZhe&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
